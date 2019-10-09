@@ -1,0 +1,34 @@
+
+.barra{
+   margin-left: 90px;
+   margin-right: 90px;
+    
+    margin-top: 50px
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  background-color: #3e0af8; /* Green */
+  border: none;
+  color: rgb(42, 231, 4);
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:disabled {
+  opacity: 0.5;
+}
+
+.divTablew{
+  margin-left: 90px;
+  margin-right: 90px
+}
+
